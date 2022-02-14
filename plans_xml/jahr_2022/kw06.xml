@@ -18,8 +18,8 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Reste</wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>unterwegs</wp:mealName>
@@ -27,13 +27,13 @@
         <wp:rcpLinkXML/>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName>Sauerkraut-Rahmsuppe mit Brezel-Croûtons</wp:mealName>
-        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/sauerkraut-rahmsuppe-mit-brezel-cro%C3%BBtons-12454080.html</wp:rcpLinkHTML>
+        <wp:mealName>Reste</wp:mealName>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Kokos-Zitronen-Huhn</wp:mealName>
-        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/81575-rzpt-kokos-zitronen-huhn</wp:rcpLinkHTML>
+        <wp:mealName>eingeladen</wp:mealName>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:sunMeal>
 

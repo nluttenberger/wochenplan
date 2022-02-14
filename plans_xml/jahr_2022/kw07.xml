@@ -2,19 +2,19 @@
 <wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../wochenplan.xsd" wp:startDate="2022-02-14" wp:endDate="2022-02-20" wp:weekNo="7">
 
     <wp:monMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName>Sauerkraut-Rahmsuppe mit Brezel-Croûtons</wp:mealName>
+        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/sauerkraut-rahmsuppe-mit-brezel-cro%C3%BBtons-12454080.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML/>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML/>
+        <wp:mealName>Kokos-Zitronen-Huhn</wp:mealName>
+        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/81575-rzpt-kokos-zitronen-huhn</wp:rcpLinkHTML>
         <wp:rcpLinkXML/>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Chicorée mit Schinken</wp:mealName>
@@ -22,18 +22,18 @@
         <wp:rcpLinkXML>kochbuch/recipes_xml/04%20Fleisch/Chicor%C3%A9e%20mit%20Schinken.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:sunMeal>
 
