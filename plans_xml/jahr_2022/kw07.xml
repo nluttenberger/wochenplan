@@ -17,22 +17,22 @@
         <wp:rcpLinkXML>kochbuch/recipes_xml/04%20Fleisch/Chicor%C3%A9e%20mit%20Schinken.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:mealName>Paniertes Fischfilet mit Estragon-Karotten</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Girandole mit Huhn in Kokos-Gemüsesauce</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>kochbuch/recipes_xml/06%20Nudeln/Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:sunMeal>
