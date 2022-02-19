@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../wochenplan.xsd" wp:startDate="2022-02-14" wp:endDate="2022-02-20" wp:weekNo="7">
+<wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:startDate="2022-02-14" wp:endDate="2022-02-20" wp:weekNo="7">
 
     <wp:monMeal>
         <wp:mealName>Sauerkraut-Rahmsuppe mit Brezel-Croûtons</wp:mealName>
         <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/sauerkraut-rahmsuppe-mit-brezel-cro%C3%BBtons-12454080.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Quartal/Sauerkraut-Rahmsuppe%20mit%20Brezel-Croûtons.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Kokos-Zitronen-Huhn</wp:mealName>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../wochenplan.xsd" wp:startDate="2022-02-07" wp:endDate="2022-02-13" wp:weekNo="6">
+<wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:startDate="2022-02-07" wp:endDate="2022-02-13" wp:weekNo="6">
 
     <wp:monMeal>
         <wp:mealName>Brokkoli-Nudel-Auflauf</wp:mealName>
