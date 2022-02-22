@@ -3,36 +3,36 @@
 
     <wp:monMeal>
         <wp:mealName>Reste</wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName>Wraps</wp:mealName>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML></wp:rcpLinkXML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:sunMeal>
