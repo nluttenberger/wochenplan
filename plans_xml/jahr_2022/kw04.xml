@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd">
-<wp:monMeal/><wp:tueMeal><wp:mealName/><wp:rcpLinkHTML/><wp:rcpLinkXML/></wp:tueMeal></wp:wochenplan>
+<wp:monMeal><wp:mealName/><wp:rcpLinkHTML/><wp:rcpLinkXML/></wp:monMeal><wp:tueMeal><wp:mealName/><wp:rcpLinkHTML/><wp:rcpLinkXML/></wp:tueMeal></wp:wochenplan>
