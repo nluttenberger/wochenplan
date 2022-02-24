@@ -12,12 +12,12 @@
         <wp:rcpLinkXML/>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
+        <wp:mealName>Tom Khaa Kai</wp:mealName>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Tom%20Khaa%20Kai.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML/>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
+        <wp:mealName>Rührei</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:thuMeal>

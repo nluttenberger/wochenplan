@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:startDate="2022-01-24" wp:endDate="2022-01-30" wp:weekNo="4">
 
@@ -39,7 +38,3 @@
     </wp:sunMeal>
 
 </wp:wochenplan>
-=======
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd">
-<wp:monMeal/><wp:tueMeal/><wp:wdnMeal/><wp:thuMeal/><wp:friMeal/><wp:satMeal/><wp:sunMeal/></wp:wochenplan>
->>>>>>> 2c134c22077ace754c4c7f0543130c4f5a2d5621
