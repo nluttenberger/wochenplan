@@ -4,12 +4,12 @@
     <wp:monMeal>
         <wp:mealName>Griechischer Salat</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Griechischer%20Salat.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Tortilla</wp:mealName>
         <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>kochbuch/recipes_xml/07%20Vegetarisch/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Überbackener Fenchel</wp:mealName>
@@ -19,22 +19,22 @@
     <wp:thuMeal>
         <wp:mealName>Paniertes Fischfilet mit Estragon-Karotten</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Spinat-Pfannkuchen mit Lauchgemüse</wp:mealName>
         <wp:rcpLinkHTML>https://www.rewe.de/rezepte/spinatpfannkuchen-lauch/</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Spinat-Pfannkuchen%20mit%20Lauchgemüse.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Vialla-Nudeln mit Rapunzel-Pesto</wp:mealName>
         <wp:rcpLinkHTML>https://www.rewe.de/rezepte/pasta-feldsalat-pesto/</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Vialla-Nudeln mit Rapunzel-Pesto.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Pizza fruschtique</wp:mealName>
         <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Pizza.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>kochbuch/recipes_xml/01%20Grundrezepte/Pizza.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Pizza.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 
 </wp:wochenplan>
