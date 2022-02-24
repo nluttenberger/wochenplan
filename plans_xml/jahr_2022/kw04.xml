@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<wp:wochenplan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fruschtique.de/ns/recipe" xmlns:wp="http://fruschtique.de/ns/wochenplan" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:startDate="2022-01-24" wp:endDate="2022-01-30" wp:weekNo="4">
+
+    <wp:monMeal>
+        <wp:mealName>Griechischer Salat</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Griechischer%20Salat.xml</wp:rcpLinkXML>
+    </wp:monMeal>
+    <wp:tueMeal>
+        <wp:mealName>Tortilla</wp:mealName>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
+    </wp:tueMeal>
+    <wp:wdnMeal>
+        <wp:mealName>Überbackener Fenchel</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML/>
+    </wp:wdnMeal>
+    <wp:thuMeal>
+        <wp:mealName>Paniertes Fischfilet mit Estragon-Karotten</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
+    </wp:thuMeal>
+    <wp:friMeal>
+        <wp:mealName>Spinat-Pfannkuchen mit Lauchgemüse</wp:mealName>
+        <wp:rcpLinkHTML>https://www.rewe.de/rezepte/spinatpfannkuchen-lauch/</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Spinat-Pfannkuchen%20mit%20Lauchgemüse.xml</wp:rcpLinkXML>
+    </wp:friMeal>
+    <wp:satMeal>
+        <wp:mealName>Vialla-Nudeln mit Rapunzel-Pesto</wp:mealName>
+        <wp:rcpLinkHTML>https://www.rewe.de/rezepte/pasta-feldsalat-pesto/</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Vialla-Nudeln mit Rapunzel-Pesto.xml</wp:rcpLinkXML>
+    </wp:satMeal>
+    <wp:sunMeal>
+        <wp:mealName>Pizza fruschtique</wp:mealName>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Pizza.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>sammlung_2022/recipes_xml/01%20Quartal/Pizza.xml</wp:rcpLinkXML>
+    </wp:sunMeal>
+
+</wp:wochenplan>
+=======
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd">
+<wp:monMeal/><wp:tueMeal/><wp:wdnMeal/><wp:thuMeal/><wp:friMeal/><wp:satMeal/><wp:sunMeal/></wp:wochenplan>
+>>>>>>> 2c134c22077ace754c4c7f0543130c4f5a2d5621
