@@ -22,17 +22,17 @@
         <wp:rcpLinkXML/>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Fischfilet paniert mit Estragon-Karotten</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Quartal/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>Ragout fruschtique</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Quartal/Ragout%20fruschtique</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:sunMeal>
