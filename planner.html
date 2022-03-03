@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>enter wochenplan</title>
+    <style>
+      .targetDiv {
+        width: 420px;
+        height: 72px;
+        padding: 5px;
+        border: 1px solid #aaaaaa;
+      }
+    </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    <link rel="stylesheet" href="css/formPlan.css" type="text/css">
+    <script src="js/formPlan.js"></script>
+
+  </head>
+
+  <body>
+    <div class="boxtainer">
+      <div class="logo"><img src="logos/fruschtique%20Logo%20grau%20transparent.png" alt="Logo" title="fruschtique-Logo"></div>
+      <div class="hSpace"></div>
+      <div class="vSpace"></div>
+      <div class="sub">
+        <p>Was gibt's zu essen?</p>
+      </div>
+      <div class="date">
+        <form>
+          <fieldset id="kwSet">
+            <legend>Kalenderwoche</legend>
+            <input type="number" id="week" min="1" max="53"></input>
+            <input type="button" id="weekBtn" value="setzen"></input>
+          </fieldset>
+        </form>
+      </div>
+      <!--<div class="date"><a href="#"><img src="icons/tile-backward.png" title="zurück" alt="zurück" style="position:relative; top:2px;"></a><strong> 24.1.  –  30.1.   <small>(KW 04) </small></strong><a href="22-kw05.html"><img src="icons/tile-forward.png" title="weiter" alt="weiter" style="position:relative; top:4px;"></a></div>-->
+      <div class="rcpContainer">
+        <ul>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="#" data-xmlLink="#">Reste</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="#" data-xmlLink="#">nichts</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/84376-rzpt-koenigsberger-pasta.html"
+               data-xmlLink="#" target="_blank">Königsberger Pasta</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/84605-rzpt-gruene-sauce-kraeuter-pesto-mit-ricotta-gnudi.html"
+               data-xmlLink="#" target="_blank">Grüne-Sauce-Kräuter-Pesto mit Ricotta-Gnudi</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/90009-rzpt-wiener-gulasch.html"
+               data-xmlLink="#" target="_blank">Wiener Gulasch</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/86893-rzpt-kaspressknoedel-mit-spitzkohl.html"
+               data-xmlLink="#" target="_blank">Kaspressknödel mit Spitzkohl</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/89771-rzpt-hack-quiche.html"
+               data-xmlLink="#" target="_blank">Hack-Quiche</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/84938-rzpt-mexikanische-tomatensuppe.html"
+               data-xmlLink="#" target="_blank">Mexikanische Tomatensuppe</a></li>
+          <li class="rcpListItem">
+            <a class="dragObj rcpList" draggable="true"
+               href="https://www.essen-und-trinken.de/rezepte/89597-rzpt-one-pot-asia-pasta.html"
+               data-xmlLink="#" target="_blank">"One pot"-Asia-Pasta</a></li>
+        </ul>
+      </div>
+      <div class="mon"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Mo</text></svg></div>
+      <div id="monTarget" class="targetDiv monMeal meal"></div>
+      <div class="tue"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Di</text></svg></div>
+      <div id="tueTarget" class="targetDiv tueMeal meal"></div>
+      <div class="wdn"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Mi</text></svg></div>
+      <div id="wdnTarget" class="targetDiv wdnMeal meal"></div>
+      <div class="thu"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Do</text></svg></div>
+      <div id="thuTarget" class="targetDiv thuMeal meal"></div>
+      <div class="fri"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Fr</text></svg></div>
+      <div id="friTarget" class="targetDiv friMeal meal"></div>
+      <div class="sat"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">Sa</text></svg></div>
+      <div id="satTarget" class="targetDiv satMeal meal"></div>
+      <div class="sun"><svg width="4em" height="4em">
+        <circle cx="2em" cy="2em" r="2em"></circle>
+        <text x="1.5em" y="1.5em" text-anchor="middle" fill="white" font-size="1em" dy=".3em">So</text></svg></div>
+      <div id="sunTarget" class="targetDiv sunMeal meal"></div>
+      <div class="save">
+        <input id="saveBtn" type="button" value="update/speichern"></input>
+      </div>
+      <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/luxon@2.3.1/build/global/luxon.min.js"></script>
+    </div>
+  </body>
+</html>
