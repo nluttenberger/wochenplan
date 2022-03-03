@@ -1,0 +1,223 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding-top: 1em;
+  font-family: 'Noto Sans', sans-serif;
+  color: rgb(77,77,77);
+  background-color: lightcyan;
+}
+a {cursor: pointer;}
+
+.boxtainer {
+  box-sizing: border-box;
+  width: inherit;
+  display: grid;
+  font-size: 1em;
+}
+
+.meal {
+  padding: 1em;
+  min-height: 3em;
+  font-size: 0.75em;
+}
+
+circle {
+  fill: #008b8b;
+}
+.vSpace {
+  grid-area: _vSpace;
+  display: none;
+}
+
+@media screen and (min-width: 360px) {
+  .boxtainer {
+    grid-template-columns: 2fr 8fr;
+    grid-template-areas: " . _logo "
+                         " . _sub "
+                         "  _date _date "
+                         "  _mon _monMeal "
+                         "  _tue _tueMeal "
+                         "  _wdn _wdnMeal "
+                         "  _thu _thuMeal "
+                         "  _fri _friMeal "
+                         "  _sat _satMeal "
+                         "  _sun _sunMeal "
+  }
+}
+
+@media screen and (min-width: 740px) {
+  .boxtainer {
+    grid-template-columns: 2fr 8fr;
+    grid-template-areas: " . _logo "
+                         " . _sub "
+                         "  _date _date  "
+                         "  _mon _monMeal "
+                         "  _tue _tueMeal "
+                         "  _wdn _wdnMeal "
+                         "  _thu _thuMeal "
+                         "  _fri _friMeal "
+                         "  _sat _satMeal "
+                         "  _sun _sunMeal "
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .boxtainer {
+    font-size: 1.5em;
+    grid-template-columns: 10px 1fr 1fr 6fr 4fr 20px;
+    grid-template-areas: ". _logo _logo _logo _logo ."
+                         ". _hSpace _hSpace _sub _sub ."
+                         ". _date _date _date _histo ."
+                         ". _vSpace _mon _monMeal _histo ."
+                         ". _vSpace _tue _tueMeal _histo ."
+                         ". _vSpace _wdn _wdnMeal _histo ."
+                         ". _vSpace _thu _thuMeal _histo ."
+                         ". _vSpace _fri _friMeal _histo ."
+                         ". _vSpace _sat _satMeal _histo ."
+                         ". _vSpace _sun _sunMeal _histo ."
+  }
+  .vSpace {display: block;}
+  .histo {display: flex;}
+  .histoHead {display: block;}
+  .histoList {display: block;}
+}
+
+@media screen and (min-width: 1600px) {
+  .boxtainer {
+    font-size: 1.5em;
+    grid-template-columns: auto 1100px 120px 240px auto;
+    grid-template-areas: ". _logo _logo _logo ."
+                         ". _rcpCat _sub _sub ."
+                         ". _rcpCat . _date ."
+                         ". _rcpCat _mon _monMeal ."
+                         ". _rcpCat _tue _tueMeal ."
+                         ". _rcpCat _wdn _wdnMeal ."
+                         ". _rcpCat _thu _thuMeal ."
+                         ". _rcpCat _fri _friMeal ."
+                         ". _rcpCat _sat _satMeal ."
+                         ". _rcpCat _sun _sunMeal ."
+                         ". _rcpCat . _save ."
+
+  }
+  .vSpace {display: block;}
+}
+
+.date {
+  grid_area: _date;
+}
+
+.mon {
+  grid-area: _mon;
+  padding: 0.5em;
+}
+.tue {
+  grid-area: _tue;
+  padding: 0.5em;
+}
+.wdn {
+  grid-area: _wdn;
+  padding: 0.5em;
+}
+.thu {
+  grid-area: _thu;
+  padding: 0.5em;
+}
+.fri {
+  grid-area: _fri;
+  padding: 0.5em;
+}
+.sat {
+  grid-area: _sat;
+  padding: 0.5em;
+}
+.sun {
+  grid-area: _sun;
+  padding: 0.5em;
+}
+
+.monMeal {
+  grid-area: _monMeal;
+}
+.tueMeal {
+  grid-area: _tueMeal;
+}
+.wdnMeal {
+  grid-area: _wdnMeal;
+}
+.thuMeal {
+  grid-area: _thuMeal;
+}
+.friMeal {
+  grid-area: _friMeal;
+}
+.satMeal {
+  grid-area: _satMeal;
+}
+.sunMeal {
+  grid-area: _sunMeal;
+}
+.rcpContainer {
+  grid-area: _rcpCat;
+  font-size: 0.75em;
+}
+.logo {
+  grid-area: _logo;
+  margin-top: 0.5em;
+  padding-right: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-self: flex-end;
+  align-items: flex-end;
+}
+.hSpace {
+  grid-area: _hSpace;
+}
+.sub {
+  grid-area: _sub;
+  padding-right: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-self: flex-end;
+  align-items: flex-end;
+  margin-bottom: 12px;
+}
+.date {
+  grid-area: _date;
+  margin-top: 6px;
+  margin-bottom: 12px;
+}
+.histoHead {
+  display: none;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+.histoList {
+  diplay: none;
+}
+.one {
+  list-style: none;
+}
+.two {
+  list-style: none;
+}
+.save {
+  grid-area: _save;
+}
+
+.over-me {
+  background-color: yellow;
+  border: 1px dotted #aaaaaa;
+}
+.static {
+  border: 1px solid #aaaaaa;
+}
+.rcpList {
+  list-style: none;
+  cursor: pointer;
+}
+.rcpListItem {
+  margin: 0.5em;
+}
+.week {
+  font-size: 0.75em;
+}
