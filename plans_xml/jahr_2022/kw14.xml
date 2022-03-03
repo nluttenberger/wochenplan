@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="14" wp:startDate="2022-04-04" wp:endDate="2022-04-10">
+    <wp:monMeal>
+        <wp:mealName>Reste</wp:mealName>
+        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+    </wp:monMeal>
+    <wp:tueMeal>
+        <wp:mealName>nichts</wp:mealName>
+        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+    </wp:tueMeal>
+    <wp:wdnMeal>
+        <wp:mealName>Königsberger Pasta</wp:mealName>
+        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/84376-rzpt-koenigsberger-pasta.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>xx</wp:rcpLinkXML>
+    </wp:wdnMeal>
+    <wp:thuMeal>
+        <wp:mealName/>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
+    </wp:thuMeal>
+    <wp:friMeal>
+        <wp:mealName/>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
+    </wp:friMeal>
+    <wp:satMeal>
+        <wp:mealName/>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
+    </wp:satMeal>
+    <wp:sunMeal>
+        <wp:mealName/>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML></wp:rcpLinkXML>
+    </wp:sunMeal>
+</wp:wochenplan>
