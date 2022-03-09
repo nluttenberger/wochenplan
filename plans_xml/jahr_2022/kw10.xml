@@ -6,32 +6,32 @@
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName>Spitzkohlsalat</wp:mealName>
+        <wp:mealName>Dolma gefüllt mit Minze-Bulgur</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName>Kasseler Lachs mit Polenta</wp:mealName>
+        <wp:mealName>Menu von gestern</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName>Kasseler Lachs mit Polenta</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName>Spitzkohlsalat</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML/>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:sunMeal>
