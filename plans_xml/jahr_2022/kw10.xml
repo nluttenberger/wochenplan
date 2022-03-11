@@ -17,13 +17,13 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Kasseler Lachs mit Polenta</wp:mealName>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Kasseler%20Lachs%20mit%20Polenta.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Kasseler%20Lachs%20mit%20Polenta.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Spitzkohlsalat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName/>
@@ -31,8 +31,8 @@
         <wp:rcpLinkXML>#</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:mealName>Huhn in Kokos-Gemüsesauce mit Nudeln</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
