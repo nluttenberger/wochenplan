@@ -7,8 +7,8 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Dolma mit Minze-Bulgur</wp:mealName>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Dolma%20mit%20Minze-Bulgur.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Dolma%20mit%20Minze-Bulgur.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Menu von gestern</wp:mealName>
