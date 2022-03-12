@@ -7,32 +7,32 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Eier in Senfsauce mit Bratkartoffeln</wp:mealName>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Eier%20in%20Senfsauce%20mit%20Bratkartoffeln.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Eier%20in%20Senfsauce%20mit%20Bratkartoffeln.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>nichts</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName>immer noch Reste</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName>Tortilla</wp:mealName>
+        <wp:mealName>Tortilla de Chili y Culantro</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Spaghetti mit Pesto rosso</wp:mealName>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Spaghetti%20mit%20Pesto%20rosso.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spaghetti%20mit%20Pesto%20rosso.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
