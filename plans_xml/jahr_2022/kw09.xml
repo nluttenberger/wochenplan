@@ -2,8 +2,8 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="09" wp:startDate="2022-02-28" wp:endDate="2022-03-06">
     <wp:monMeal>
         <wp:mealName>Kohl-Karotten-Quiche</wp:mealName>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Kohl-Karotten-Quiche.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Kohl-Karotten-Quiche.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Eier in Senfsauce mit Bratkartoffeln</wp:mealName>
@@ -22,13 +22,13 @@
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Tortilla</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Spaghetti mit Pesto rosso</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>#</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
