@@ -11,23 +11,23 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
+        <wp:mealName>Trockenfutter</wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
+        <wp:mealName>Fusilli mit Tomatensauce</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>immer noch Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
+        <wp:mealName>Culurgiones</wp:mealName>
+        <wp:rcpLinkHTML>https://www.hr-fernsehen.de/sendungen-a-z/hallo-hessen/rezepte/rezept-culurgiones-ogliastrini-nudeltaschen-mit-kartoffelfuellung,kochen-4842.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
