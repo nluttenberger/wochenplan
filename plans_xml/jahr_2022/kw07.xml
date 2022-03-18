@@ -4,12 +4,12 @@
     <wp:monMeal>
         <wp:mealName>Sauerkraut-Rahmsuppe mit Brezel-Croûtons</wp:mealName>
         <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/sauerkraut-rahmsuppe-mit-brezel-cro%C3%BBtons-12454080.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Quartal/Sauerkraut-Rahmsuppe%20mit%20Brezel-Croûtons.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Sauerkraut-Rahmsuppe%20mit%20Brezel-Croûtons.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Kokos-Zitronen-Huhn</wp:mealName>
-        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/81575-rzpt-kokos-zitronen-huhn.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Kokos-Zitronen-H%C3%A4hnchen.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Kokos-Zitronen-H%C3%A4hnchen.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Chicorée mit Schinken</wp:mealName>
@@ -18,13 +18,13 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Paniertes Fischfilet mit Estragon-Karotten</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName>Girandole mit Huhn in Kokos-Gemüsesauce</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:mealName>Huhn in Kokos-Gemüsesauce mit Nudeln</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
@@ -34,7 +34,7 @@
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:sunMeal>
 
 </wp:wochenplan>

@@ -9,7 +9,7 @@
     <wp:tueMeal>
         <wp:mealName>Minestrone</wp:mealName>
         <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Minestrone.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>kochbuch/recipes_xml/03%20Suppen/Minestrone.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Minestrone.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Moules à la provençale</wp:mealName>
@@ -17,9 +17,9 @@
         <wp:rcpLinkXML>kochbuch/recipes_xml/05%20Fisch/Moules%20%C3%A0%20la%20proven%C3%A7ale.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName>Gemüse-Curry mit Papadams</wp:mealName>
-        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/gemuese-curry-mit-papadams-12449928.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:mealName>Gemüse-Curry</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Gem%C3%BCse-Curry.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Gem%C3%BCse-Curry.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Restaurant</wp:mealName>
@@ -29,7 +29,7 @@
     <wp:satMeal>
         <wp:mealName>Chinesisch gebratene Nudeln mit Hühnchenfleisch, Ei und Gemüse</wp:mealName>
         <wp:rcpLinkHTML>https://www.chefkoch.de/rezepte/2848091436834550/Chinesisch-gebratene-Nudeln-mit-Huehnchenfleisch-Ei-und-Gemuese.html.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
