@@ -6,27 +6,27 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Fusilli%20mit%20Tomatensauce.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fusilli%20mit%20Tomatensauce.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Wraps.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>

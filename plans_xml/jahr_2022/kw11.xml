@@ -32,7 +32,7 @@
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Heringssalat mit Pellka</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Heringssalat%20mit%20Pellka.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Heringssalat%20mit%20Pellka.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
