@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="12" wp:startDate="2022-03-21" wp:endDate="2022-03-27">
     <wp:monMeal>
-        <wp:mealName>Culurgiones</wp:mealName>
-        <wp:rcpLinkHTML>https://www.hr-fernsehen.de/sendungen-a-z/hallo-hessen/rezepte/rezept-culurgiones-ogliastrini-nudeltaschen-mit-kartoffelfuellung,kochen-4842.html</wp:rcpLinkHTML>
+        <wp:mealName>Peperoncini alla turca</wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName>Culurgiones</wp:mealName>
+        <wp:rcpLinkHTML>https://www.hr-fernsehen.de/sendungen-a-z/hallo-hessen/rezepte/rezept-culurgiones-ogliastrini-nudeltaschen-mit-kartoffelfuellung,kochen-4842.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName/>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fusilli%20mit%20Tomatensauce.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
@@ -27,7 +27,7 @@
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName/>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
