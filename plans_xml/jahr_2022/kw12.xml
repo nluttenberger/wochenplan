@@ -12,27 +12,28 @@
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Spaghetti mit Tomatensugo</wp:mealName>
-        <wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>
+        <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Pardulas%20herzhaft.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spaghetti%20mit%20Tomatensugo.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fusilli%20mit%20Tomatensauce.xml</wp:rcpLinkXML>
+        <wp:mealName>Überbackener Fenchel</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/%C3%9Cberbackener%20Fenchel.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/%C3%9Cberbackener%20Fenchel.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Rote Bete-Salat mit Bratkartoffeln und Spiegelei</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
+        <wp:mealName>Pardulas herzhaft</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Pardulas%20herzhaft.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:mealName>Lachsfilet mit Fenchel-Orangen-GemÜse</wp:mealName>
+        <wp:rcpLinkHTML>https://www.gutekueche.at/lachsfilet-an-fenchel-orangen-gemuse-rezept-29417</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Pardulas%20herzhaft.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
