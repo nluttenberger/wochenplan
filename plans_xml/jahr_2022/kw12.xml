@@ -13,7 +13,7 @@
     <wp:wdnMeal>
         <wp:mealName>Spaghetti mit Tomatensugo</wp:mealName>
         <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Pardulas%20herzhaft.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Spaghetti%20mit%20Tomatensugo.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spaghetti%20mit%20Tomatensugo.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
@@ -23,8 +23,8 @@
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Rote Bete-Salat mit Bratkartoffeln und Spiegelei</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Rote%20Bete-Salat%20mit%20Bratkartoffeln%20und%20Spiegelei.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Rote%20Bete-Salat%20mit%20Bratkartoffeln%20und%20Spiegelei.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Pardulas herzhaft</wp:mealName>
@@ -32,8 +32,9 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Lachsfilet mit Fenchel-Orangen-GemÜse</wp:mealName>
+        <wp:mealName>Lachsfilet mit Fenchel-Orangen-Gemüse</wp:mealName>
         <wp:rcpLinkHTML>https://www.gutekueche.at/lachsfilet-an-fenchel-orangen-gemuse-rezept-29417</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Pardulas%20herzhaft.xml</wp:rcpLinkXML>
+        <!--<wp:rcpLinHTXML>https://menu-22.fruschtique.de/recipes/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinHTXML>-->
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
