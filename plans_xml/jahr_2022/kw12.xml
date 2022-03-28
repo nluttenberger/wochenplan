@@ -33,7 +33,7 @@
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Lachsfilet mit Fenchel-Orangen-Gemüse</wp:mealName>
-        <wp:rcpLinkHTML>https://www.gutekueche.at/lachsfilet-an-fenchel-orangen-gemuse-rezept-29417</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinkHTML>
         <!--<wp:rcpLinHTXML>https://menu-22.fruschtique.de/recipes/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinHTXML>-->
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
     </wp:sunMeal>

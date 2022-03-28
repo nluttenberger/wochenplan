@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="13" wp:startDate="2022-03-28" wp:endDate="2022-04-03">
+    <wp:monMeal>
+        <wp:mealName>Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezelcroutons</wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+    </wp:monMeal>
+    <wp:tueMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+    </wp:tueMeal>
+    <wp:wdnMeal>
+        <wp:mealName></wp:mealName>
+        <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+    </wp:wdnMeal>
+    <wp:thuMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/</wp:rcpLinkXML>
+    </wp:thuMeal>
+    <wp:friMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+    </wp:friMeal>
+    <wp:satMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+    </wp:satMeal>
+    <wp:sunMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <!--<wp:rcpLinHTXML>https://menu-22.fruschtique.de/recipes/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinHTXML>-->
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
+    </wp:sunMeal>
+</wp:wochenplan>
