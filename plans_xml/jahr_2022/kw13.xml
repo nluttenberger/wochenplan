@@ -11,30 +11,29 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
+        <wp:mealName>Minestrone</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Zwiebelkuchen</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>Spaghetti mit Bärlauchpesto</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Schwarzwurzeln mit Bratkartoffeln</wp:mealName>
         <wp:rcpLinkHTML/>
-        <!--<wp:rcpLinHTXML>https://menu-22.fruschtique.de/recipes/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinHTXML>-->
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
