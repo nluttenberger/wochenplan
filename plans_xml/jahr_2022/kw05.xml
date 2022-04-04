@@ -8,12 +8,12 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Minestrone</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Minestrone.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Minestrone.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Minestrone.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Moules à la provençale</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Moules%20%C3%A0%20la%20proven%C3%A7ale.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Moules%20%C3%A0%20la%20proven%C3%A7ale.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>kochbuch/recipes_xml/05%20Fisch/Moules%20%C3%A0%20la%20proven%C3%A7ale.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
