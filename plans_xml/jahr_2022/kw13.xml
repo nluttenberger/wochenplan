@@ -2,12 +2,12 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="13" wp:startDate="2022-03-28" wp:endDate="2022-04-03">
     <wp:monMeal>
         <wp:mealName>Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezelcroutons</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Blumenkohl-Fenchel-Suppe%20mit%20Madras-Curry%20und%20Brezelcroutons.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Blumenkohl-Fenchel-Suppe%20mit%20Madras-Curry%20und%20Brezelcroutons.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Blumenkohl-Fenchel-Suppe%20mit%20Madras-Curry%20und%20Brezelcroutons.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Rührei mit Pilzen, Paprika und Speck</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
@@ -23,7 +23,7 @@
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Zwiebelkuchen</wp:mealName>
-        <wp:rcpLinkHTML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Zwiebelkuchen.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
@@ -32,7 +32,7 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Schwarzwurzeln mit Bratkartoffeln</wp:mealName>
+        <wp:mealName>beim Italiener</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:sunMeal>
