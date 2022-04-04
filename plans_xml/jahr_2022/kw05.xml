@@ -8,17 +8,17 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Minestrone</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Minestrone.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Minestrone.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Minestrone.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Moules à la provençale</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Moules%20%C3%A0%20la%20proven%C3%A7ale.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Moules%20%C3%A0%20la%20proven%C3%A7ale.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>kochbuch/recipes_xml/05%20Fisch/Moules%20%C3%A0%20la%20proven%C3%A7ale.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Gemüse-Curry</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Gem%C3%BCse-Curry.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Gem%C3%BCse-Curry.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Gem%C3%BCse-Curry.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
@@ -28,8 +28,8 @@
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Chinesisch gebratene Nudeln mit Hühnchenfleisch, Ei und Gemüse</wp:mealName>
-        <wp:rcpLinkHTML>https://www.chefkoch.de/rezepte/2848091436834550/Chinesisch-gebratene-Nudeln-mit-Huehnchenfleisch-Ei-und-Gemuese.html.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Chinesisch%20gebratene%20Nudeln%20mit%20H%C3%BChnchenfleisch,%20Ei%20und%20Gem%C3%BCse.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Chinesisch%20gebratene%20Nudeln%20mit%20H%C3%BChnchenfleisch,%20Ei%20und%20Gem%C3%BCse.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>

@@ -8,7 +8,7 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Tortilla</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
@@ -23,7 +23,7 @@
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Spinat-Pfannkuchen mit Lauchgemüse</wp:mealName>
-        <wp:rcpLinkHTML>https://www.rewe.de/rezepte/01%20Q1/Spinatpfannkuchen%20mit%20Lauchgemüse.html/</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Spinat-Pfannkuchen%20mit%20Lauchgem%C3%BCse.html/</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spinat-Pfannkuchen%20mit%20Lauchgemüse.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
@@ -33,7 +33,7 @@
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Pizza fruschtique</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Pizza.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Pizza.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Pizza.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 
