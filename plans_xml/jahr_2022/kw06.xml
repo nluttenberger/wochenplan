@@ -3,17 +3,17 @@
 
     <wp:monMeal>
         <wp:mealName>Brokkoli-Nudel-Auflauf</wp:mealName>
-        <wp:rcpLinkHTML>https://www.daskochrezept.de/rezepte/brokkoli-nudel-auflauf-das-einfache-blitz-rezept.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Brokkoli-Nudel-Auflauf.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Bohnen mit Schafskäse</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Bohnen%20mit%20Schafsk%C3%A4se.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Bohnen%20mit%20Schafsk%C3%A4se.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Bohnen%20mit%20Schafsk%C3%A4se.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Nudeln mit Lachs-Mohn-Sauce</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/01%20Q1/Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>kochbuch/recipes_xml/06%20Nudeln/Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>

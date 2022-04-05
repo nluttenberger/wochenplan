@@ -28,7 +28,7 @@
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Spaghetti mit Bärlauchpesto</wp:mealName>
-        <wp:rcpLinkHTML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Spaghetti%20mit%20B%C3%A4rlauchpesto.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>

@@ -8,27 +8,27 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Wraps</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Wraps.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Wraps.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Tom Khaa Kai</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Tom%20Khaa%20Kai.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Tom%20Khaa%20Kai.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Tom%20Khaa%20Kai.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Rührei</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/R%C3%BChrei.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/R%C3%BChrei.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/R%C3%BChrei.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Fischfilet paniert mit Estragon-Karotten</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Ragout fruschtique</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/Ragout%20fruschtique.html</wp:rcpLinkHTML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Ragout%20fruschtique.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Ragout%20fruschtique</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
