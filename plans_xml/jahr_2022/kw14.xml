@@ -2,37 +2,36 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="14" wp:startDate="2022-04-04" wp:endDate="2022-04-10">
     <wp:monMeal>
         <wp:mealName>Schwarzwurzeln mit Bratkartoffeln</wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Schwarzwurzeln%20mit%20Bratkartoffeln.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Schwarzwurzeln%20mit%20Bratkartoffeln.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:mealName>Fischfilet paniert mit Estragon-Karotten.html</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName></wp:mealName>
-        <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
+        <wp:mealName>Artischocken mit Joghurt-Dill-Sauce</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:mealName>Gemüse-Curry</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Gem%C3%BCse-Curry.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Gem%C3%BCse-Curry.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:sunMeal>
