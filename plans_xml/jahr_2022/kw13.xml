@@ -12,14 +12,13 @@
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Reste</wp:mealName>
-        <!--<wp:rcpLinkHTML>https://www.essen-und-trinken.de/rezepte/86890-rzpt-tomatensugo-mit-thymian</wp:rcpLinkHTML>-->
-        <wp:rcpLinkHTML/>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Minestrone</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Minestrone.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Minestrone.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Zwiebelkuchen</wp:mealName>
