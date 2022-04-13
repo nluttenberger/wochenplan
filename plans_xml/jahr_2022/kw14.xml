@@ -27,8 +27,8 @@
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Entenbrust mit Spitzkohl und Semmelknödeln</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Entenbrust%20mit%20Spitzkohl%20und%20Semmelkn%C3%B6deln.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Entenbrust%20mit%20Spitzkohl%20und%20Semmelkn%C3%B6deln.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>eingeladen</wp:mealName>
