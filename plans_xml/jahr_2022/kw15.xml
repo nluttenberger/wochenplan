@@ -11,28 +11,28 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName>Ravioli mit Hack-Tomate-Füllung</wp:mealName>
+        <wp:mealName>Ravioli in Tomatensauce</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
+        <wp:mealName>Handkäs mit Musik</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:mealName>Minestrone</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Minestrone.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Minestrone.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:mealName>Spinat-Quiche</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Spinat-Quiche.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Spinat-Quiche.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
+        <wp:mealName>eingeladen</wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
