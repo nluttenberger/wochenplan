@@ -206,3 +206,6 @@ circle {
 .two {
   list-style: none;
 }
+li>a {
+  color: palegoldenrod;
+}

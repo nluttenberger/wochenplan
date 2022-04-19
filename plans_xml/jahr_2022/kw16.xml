@@ -2,23 +2,23 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="16" wp:startDate="2022-04-18" wp:endDate="2022-04-24">
     <wp:monMeal>
         <wp:mealName>Butter Chicken mit Naan</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Butter%20Chicken%20mit%20Naan.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Butter%20Chicken%20mit%20Naan.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
+        <wp:mealName>Grillen ohne Rezept</wp:mealName>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Putengeschnetzeltes Szechuan</wp:mealName>
-        <wp:rcpLinkHTML>http://kochbuch.fruschtique.de/recipes/Putengeschnetzeltes%20Szechuan.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Putengeschnetzeltes%20Szechuan.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Putengeschnetzeltes%20Szechuan.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName/>
