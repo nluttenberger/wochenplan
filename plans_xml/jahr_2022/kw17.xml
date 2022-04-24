@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="17" wp:startDate="2022-04-25" wp:endDate="2022-05-01">
+    <wp:monMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Butter%20Chicken%20mit%20Naan.xml</wp:rcpLinkXML>
+    </wp:monMeal>
+    <wp:tueMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+    </wp:tueMeal>
+    <wp:wdnMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Putengeschnetzeltes%20Szechuan.xml</wp:rcpLinkXML>
+    </wp:wdnMeal>
+    <wp:thuMeal>
+        <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
+    </wp:thuMeal>
+    <wp:friMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Minestrone.xml</wp:rcpLinkXML>
+    </wp:friMeal>
+    <wp:satMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+    </wp:satMeal>
+    <wp:sunMeal>
+        <wp:mealName></wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
+    </wp:sunMeal>
+</wp:wochenplan>
