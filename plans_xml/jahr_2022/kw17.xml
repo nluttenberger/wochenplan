@@ -3,7 +3,7 @@
     <wp:monMeal>
         <wp:mealName/>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Butter%20Chicken%20mit%20Naan.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Schweinefilet im Blätterteig</wp:mealName>
@@ -18,7 +18,7 @@
     <wp:thuMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Putengeschnetzeltes%20Szechuan.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Reste</wp:mealName>
