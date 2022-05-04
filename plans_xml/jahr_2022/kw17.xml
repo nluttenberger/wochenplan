@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="17" wp:startDate="2022-04-25" wp:endDate="2022-05-01">
     <wp:monMeal>
-        <wp:mealName/>
+        <wp:mealName>Quiche mit Choucroute und Würfelspeck</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:monMeal>
@@ -31,7 +31,7 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Spargel</wp:mealName>
+        <wp:mealName>Spargel ohne Rezept</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
     </wp:sunMeal>
