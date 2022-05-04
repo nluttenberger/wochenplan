@@ -2,13 +2,13 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="17" wp:startDate="2022-04-25" wp:endDate="2022-05-01">
     <wp:monMeal>
         <wp:mealName>Quiche mit Choucroute und Würfelspeck</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Quiche%20mit%20Choucroute%20und%20W%C3%BCrfelspeck.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Quiche%20mit%20Choucroute%20und%20W%C3%BCrfelspeck.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Schweinefilet im Blätterteig</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Schweinefilet%20im%20Bl%C3%A4tterteig.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Schweinefilet%20im%20Bl%C3%A4tterteig.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
