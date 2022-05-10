@@ -16,22 +16,22 @@
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName/>
+        <wp:mealName>im Restaurant</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>im Restaurant</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>im Restaurant</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:sunMeal>
