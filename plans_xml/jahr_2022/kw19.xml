@@ -12,13 +12,13 @@
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Rührei mit Pilzen, Paprika und Speck</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/R%C3%BChrei%20mit%20Pilzen,%20Paprika%20und%20Speck.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Scharfer Bulgursalat mit Paprika</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Scharfer%20Bulgursalat%20mit%20Paprika.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Scharfer%20Bulgursalat%20mit%20Paprika.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Fischfilet paniert mit Estragon-Karotten</wp:mealName>
