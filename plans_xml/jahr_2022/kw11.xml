@@ -3,36 +3,36 @@
     <wp:monMeal>
         <wp:mealName>schon wieder: Reste</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Spitzkohlsalat</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Spitzkohlsalat.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spitzkohlsalat.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Spitzkohlsalat.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Trockenfutter</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Fusilli mit Tomatensauce</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fusilli%20mit%20Tomatensauce.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fusilli%20mit%20Tomatensauce.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Fusilli%20mit%20Tomatensauce.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>immer noch Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Wraps</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Wraps.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Heringssalat mit Pellka</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Heringssalat%20mit%20Pellka.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Heringssalat%20mit%20Pellka.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Heringssalat%20mit%20Pellka.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>

@@ -3,36 +3,36 @@
     <wp:monMeal>
         <wp:mealName>Kohl-Karotten-Quiche</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Kohl-Karotten-Quiche.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Kohl-Karotten-Quiche.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Kohl-Karotten-Quiche.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Eier in Senfsauce mit Bratkartoffeln</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Eier%20in%20Senfsauce%20mit%20Bratkartoffeln.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Eier%20in%20Senfsauce%20mit%20Bratkartoffeln.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Eier%20in%20Senfsauce%20mit%20Bratkartoffeln.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>nichts</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>immer noch Reste</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Tortilla de Chili y Culantro</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Tortilla%20de%20Chili%20y%20Culantro.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Spaghetti mit Pesto rosso</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Spaghetti%20mit%20Pesto%20rosso.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spaghetti%20mit%20Pesto%20rosso.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Spaghetti%20mit%20Pesto%20rosso.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML>#</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>

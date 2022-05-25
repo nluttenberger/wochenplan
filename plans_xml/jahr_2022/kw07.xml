@@ -4,37 +4,37 @@
     <wp:monMeal>
         <wp:mealName>Sauerkraut-Rahmsuppe mit Brezel-Croûtons</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Sauerkraut-Rahmsuppe%20mit%20Brezel-Cro%C3%BBtons.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Sauerkraut-Rahmsuppe%20mit%20Brezel-Croûtons.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Sauerkraut-Rahmsuppe%20mit%20Brezel-Croûtons.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Kokos-Zitronen-Huhn</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Kokos-Zitronen-H%C3%A4hnchen.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Kokos-Zitronen-H%C3%A4hnchen.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Kokos-Zitronen-H%C3%A4hnchen.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Chicorée mit Schinken</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Chicor%C3%A9e%20mit%20Schinken.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Chicor%C3%A9e%20mit%20Schinken.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Chicor%C3%A9e%20mit%20Schinken.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Paniertes Fischfilet mit Estragon-Karotten</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Fischfilet%20paniert%20mit%20Estragon-Karotten.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Huhn in Kokos-Gemüsesauce mit Nudeln</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/</wp:rcpLinkXML>
     </wp:sunMeal>
 
 </wp:wochenplan>

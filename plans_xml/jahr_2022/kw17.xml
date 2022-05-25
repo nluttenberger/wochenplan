@@ -3,36 +3,36 @@
     <wp:monMeal>
         <wp:mealName>Quiche mit Choucroute und Würfelspeck</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Quiche%20mit%20Choucroute%20und%20W%C3%BCrfelspeck.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Quiche%20mit%20Choucroute%20und%20W%C3%BCrfelspeck.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Quiche%20mit%20Choucroute%20und%20W%C3%BCrfelspeck.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Schweinefilet im Blätterteig</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Schweinefilet%20im%20Bl%C3%A4tterteig.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Schweinefilet%20im%20Bl%C3%A4tterteig.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Schweinefilet%20im%20Bl%C3%A4tterteig.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Fettucine mit Lachs-Mohn-Sauce</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Fettucine%20mit%20Lachs-Mohn-Sauce.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Fettucine%20mit%20Lachs-Mohn-Sauce.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Minestrone.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Minestrone.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Spaghetti mit Bärlauchpesto</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Spargel ohne Rezept</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/02%20Q2/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Huhn%20in%20Kokos-Gem%C3%BCsesauce%20mit%20Nudeln.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>

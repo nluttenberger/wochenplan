@@ -3,36 +3,36 @@
     <wp:monMeal>
         <wp:mealName>Peperoncini alla turca</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Peperoncini%20alla%20turca.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Peperoncini%20alla%20turca.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Peperoncini%20alla%20turca.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Pardulas herzhaft</wp:mealName>
         <wp:rcpLinkHTML>https://www.sardinien-auf-den-tisch.eu/pardulas-formaggelle-casadinas-nicht-nur-zu-ostern-eine-der-leckersten-sardischen-gebaecksorten-dolci-sardi/</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Pardulas%20herzhaft.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Pardulas%20herzhaft.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Spaghetti mit Tomatensugo</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Spaghetti%20mit%20Tomatensugo.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Spaghetti%20mit%20Tomatensugo.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Spaghetti%20mit%20Tomatensugo.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Überbackener Fenchel</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/%C3%9Cberbackener%20Fenchel.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/%C3%9Cberbackener%20Fenchel.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/%C3%9Cberbackener%20Fenchel.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Rote Bete-Salat mit Bratkartoffeln und Spiegelei</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Rote%20Bete-Salat%20mit%20Bratkartoffeln%20und%20Spiegelei.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Rote%20Bete-Salat%20mit%20Bratkartoffeln%20und%20Spiegelei.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Rote%20Bete-Salat%20mit%20Bratkartoffeln%20und%20Spiegelei.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Pardulas herzhaft</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Pardulas%20herzhaft.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Wraps.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Lachsfilet mit Fenchel-Orangen-Gemüse</wp:mealName>
         <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>Sammlung_2022/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/01%20Q1/Lachsfilet%20mit%20Fenchel-Orangen-Gem%C3%BCse.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
