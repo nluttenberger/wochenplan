@@ -2,36 +2,36 @@
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="22" wp:startDate="2022-05-30" wp:endDate="2022-06-05">
     <wp:monMeal>
         <wp:mealName>Griechischer Salat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Griechischer%20Salat.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Griechischer%20Salat.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Peperoncini alla turca mit scharfem Bulgursalat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Peperoncini%20alla%20turca%20mit%20scharfem%20Bulgursalat.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Peperoncini%20alla%20turca%20mit%20scharfem%20Bulgursalat.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Bohnensuppe.xml</wp:rcpLinkXML>
+        <wp:mealName>Reste</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/S%C3%BClze%20mit%20Bratkartoffeln%20und%20Karotten-Fenchel-Salat.xml</wp:rcpLinkXML>
+        <wp:mealName>Restaurant</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName>in Madrid</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:sunMeal>

@@ -7,13 +7,13 @@
     </wp:monMeal>
     <wp:tueMeal>
         <wp:mealName>Köfte in Pide vom Grill</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/K%C3%B6fte%20in%20Pide%20vom%20Grill.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/K%C3%B6fte%20in%20Pide%20vom%20Grill.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Heringssalat mit Pellka</wp:mealName>
-        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Bohnensuppe.html</wp:rcpLinkHTML>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Bohnensuppe.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Heringssalat%20mit%20Pellka.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Heringssalat%20mit%20Pellka.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Sülze mit Bratkartoffeln und Karotten-Fenchel-Salat</wp:mealName>
@@ -21,14 +21,14 @@
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/S%C3%BClze%20mit%20Bratkartoffeln%20und%20Karotten-Fenchel-Salat.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName>Nudelrolle mit Chinakohl und brauner Butter</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:mealName>Nudelrolle mit Chinakohl</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Nudelrolle%20mit%20Chinakohl.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Nudelrolle%20mit%20Chinakohl.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Rouladen mit Semmelknödeln und Ofengemüse</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Rouladen%20mit%20Semmelkn%C3%B6deln%20und%20Ofengem%C3%BCse.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Rouladen%20mit%20Semmelkn%C3%B6deln%20und%20Ofengem%C3%BCse.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Reste</wp:mealName>
