@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="23" wp:startDate="2022-06-06" wp:endDate="2022-06-12">
+    <wp:monMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:monMeal>
+    <wp:tueMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:tueMeal>
+    <wp:wdnMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:wdnMeal>
+    <wp:thuMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:thuMeal>
+    <wp:friMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:friMeal>
+    <wp:satMeal>
+        <wp:mealName>in Madrid</wp:mealName>
+        <wp:rcpLinkHTML/>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:satMeal>
+    <wp:sunMeal>
+        <wp:mealName>Spaghetti mit Tomatensugo</wp:mealName>
+        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+    </wp:sunMeal>
+</wp:wochenplan>
