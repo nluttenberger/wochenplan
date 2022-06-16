@@ -17,22 +17,22 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Kartoffelsalat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Kartoffelsalat.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Kartoffelsalat.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName></wp:mealName>
-        <wp:rcpLinkHTML></wp:rcpLinkHTML>
+        <wp:mealName/>
+        <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
