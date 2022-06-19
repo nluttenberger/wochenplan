@@ -21,17 +21,17 @@
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Kartoffelsalat.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>in Frankfurt</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>in Frankfurt</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:sunMeal>
