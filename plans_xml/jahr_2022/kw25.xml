@@ -17,21 +17,21 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Linguine aglio, olio e peperoncino</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Linguine%20aglio,%20olio%20e%20peperoncino.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Linguine aglio, olio e peperoncino.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>Weingut Ebling in Schornsheim</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
     </wp:sunMeal>
