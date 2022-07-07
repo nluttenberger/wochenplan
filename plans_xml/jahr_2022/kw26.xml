@@ -17,22 +17,22 @@
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Polenta mit Balsamico-Gemüse</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Polenta%20mit%20Balsamico-Gem%C3%BCse.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Polenta mit Balsamico-Gemüse.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Lauchsuppe mit Hack</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Lauchsuppe%20mit%20Hack.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Lauchsuppe mit Hack.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
         <wp:mealName>Bohnensuppe</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Bohnensuppe.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Bohnensuppe.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Spaghetti mit Pesto rosso</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Spaghetti%20mit%20Pesto%20rosso.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Spaghetti%20mit%20Pesto%20rosso.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
