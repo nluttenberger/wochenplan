@@ -32,7 +32,7 @@
     </wp:satMeal>
     <wp:sunMeal>
         <wp:mealName>Spaghetti mit Tomatensugo</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/02%20Q2/Spaghetti%20mit%20Tomatensugo.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/02%20Q2/Spaghetti%20mit%20Tomatensugo.xml</wp:rcpLinkXML>
     </wp:sunMeal>
 </wp:wochenplan>
