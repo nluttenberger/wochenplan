@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="27" wp:startDate="2022-07-04" wp:endDate="2022-07-10">
+<wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="28" wp:startDate="2022-07-11" wp:endDate="2022-07-17">
     <wp:monMeal>
-        <wp:mealName>beim Thailänder</wp:mealName>
+        <wp:mealName>im Restaurant</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Spaghetti mit Tomatensugo.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName>Fiesta Spagniola</wp:mealName>
+        <wp:mealName>Heringssalat</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName>Schnitzel mit Spitzkohlsalat</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
@@ -21,17 +21,17 @@
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName>TK: Bœuf bourguignon</wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName>Reste</wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:sunMeal>
