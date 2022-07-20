@@ -22,7 +22,7 @@
     </wp:thuMeal>
     <wp:friMeal>
         <wp:mealName>Gefüllte Zwiebeln mit Bratkartoffeln</wp:mealName>
-        <wp:rcpLinkHTML/>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Gef%C3%BCllte%20Zwiebeln%20mit%20Bratkartoffeln.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>

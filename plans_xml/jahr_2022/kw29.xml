@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <wp:wochenplan xmlns:wp="http://fruschtique.de/ns/wochenplan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/wochenplan ../../../wochenplan.xsd" wp:weekNo="29" wp:startDate="2022-07-18" wp:endDate="2022-07-24">
     <wp:monMeal>
-        <wp:mealName>Spaghetti mit Tomatensauce und Hackbällchen</wp:mealName>
-        <wp:rcpLinkHTML/>
+        <wp:mealName>Albondigas mit Tomatensauce</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Albondigas%20mit%20Tomatensauce.html</wp:rcpLinkHTML>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Spaghetti mit Tomatensauce und Hackbällchen.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
