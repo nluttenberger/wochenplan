@@ -16,7 +16,7 @@
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
-        <wp:mealName></wp:mealName>
+        <wp:mealName/>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:thuMeal>

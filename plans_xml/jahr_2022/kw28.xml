@@ -3,17 +3,17 @@
     <wp:monMeal>
         <wp:mealName>im Restaurant</wp:mealName>
         <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Spaghetti mit Tomatensugo.xml</wp:rcpLinkXML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:monMeal>
     <wp:tueMeal>
-        <wp:mealName>Heringssalat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
+        <wp:mealName>Heringssalat mit Pellka</wp:mealName>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Heringssalat%20mit%20Pellka.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Heringssalat mit Pellka.xml</wp:rcpLinkXML>
     </wp:tueMeal>
     <wp:wdnMeal>
         <wp:mealName>Schnitzel mit Spitzkohlsalat</wp:mealName>
-        <wp:rcpLinkHTML/>
-        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
+        <wp:rcpLinkHTML>https://menu-22.fruschtique.de/recipes/03%20Q3/Schnitzel%20mit%20Spitzkohlsalat.html</wp:rcpLinkHTML>
+        <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/Schnitzel mit Spitzkohlsalat.xml</wp:rcpLinkXML>
     </wp:wdnMeal>
     <wp:thuMeal>
         <wp:mealName>Reste</wp:mealName>
@@ -21,17 +21,17 @@
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:thuMeal>
     <wp:friMeal>
-        <wp:mealName/>
+        <wp:mealName>Gefüllte Zwiebeln mit Bratkartoffeln</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:friMeal>
     <wp:satMeal>
-        <wp:mealName/>
+        <wp:mealName>Geburtstagsparty</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:satMeal>
     <wp:sunMeal>
-        <wp:mealName/>
+        <wp:mealName>Reste</wp:mealName>
         <wp:rcpLinkHTML/>
         <wp:rcpLinkXML>menu-22/recipes_xml/03%20Q3/.xml</wp:rcpLinkXML>
     </wp:sunMeal>
